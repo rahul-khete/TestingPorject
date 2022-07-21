@@ -1,0 +1,4 @@
+geopandas
+sentinelsat
+rioxarray
+earthpy
